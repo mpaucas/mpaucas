@@ -13,3 +13,8 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
+
+## Contactame:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_Paucas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/michael-paucas-895695192/)
+[![Email](https://img.shields.io/badge/mpaucas@gmail.com-mi_correo_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mpaucas@gmail.com)
+</br>
