@@ -27,4 +27,5 @@
 ## Contactame:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_Paucas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/michael-paucas-895695192/)
 [![Email](https://img.shields.io/badge/mpaucas@gmail.com-mi_correo_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mpaucas@gmail.com)
+[![Email](https://img.shields.io/badge/michael.paucas@outlook.com-mi_correo_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:michael.paucas@outlook.com)
 </br>
